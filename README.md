@@ -4,6 +4,8 @@
 [![Go Version](https://img.shields.io/badge/go-1.19+-blue.svg)](https://golang.org/)
 [![Training Ready](https://img.shields.io/badge/training-ready-green.svg)](./TRAINING.md)
 
+**Alert
+
 This is a deliberately vulnerable web application built with Go and SQLite for Checkmarx One security testing and training purposes.
 
 ## ⚠️ Security Warning
